@@ -1,4 +1,4 @@
-# vanity-usage-boost
+# Vanity Usage Boost
 Discord vanity usage booster tool.
 
 # USAGE
